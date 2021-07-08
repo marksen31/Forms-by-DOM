@@ -1,0 +1,43 @@
+input[type=text], input[type=number] {
+width: 25%;
+padding: 12px 20px;
+/* margin: 8px 10px; */
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
+button{
+width: 10%;
+background-color: #ddd;
+color: #000;
+padding: 14px 20px;
+margin: 8px 10px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+.main{
+margin: 8px 10px;
+text-align: left;
+padding: 8px;
+}
+
+input[type=radio]{
+margin: 8px 20px;
+
+}
+#gender{
+    margin: 8px 10px;
+    padding: 8px;
+
+}
+
+input[type=checkbox]{
+padding: 12px 20px;
+margin: 8px 20px;
+display: inline-block;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+}
